@@ -26,8 +26,7 @@ var NAVTREE =
 [
   [ "Thermostat connecté", "index.html", [
     [ "Gestion d'un thermostat connecté pour chaudière fioul", "index.html", null ],
-    [ "Thermostat Arduino", "md_documentation.html", null ],
-    [ "ThermostatConnecte", "md__r_e_a_d_m_e.html", null ],
+    [ "Thermostat Arduino", "md__2_users_2ericduquenoy_2_documents_2_arduino_2_thermostat_connecte_2documentation.html", null ],
     [ "Liste des choses à faire", "todo.html", null ],
     [ "Classes", "annotated.html", [
       [ "Liste des classes", "annotated.html", "annotated_dup" ],
